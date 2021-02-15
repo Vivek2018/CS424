@@ -20,19 +20,29 @@
    <p> The first page displays the totals for the US and shows the 9 energies over time. The energy sources can be selected to give a more comprehensive idea. </p> 
    
    <br> 
-   
-   <img src="First_Page.png"> 
+   <figure> 
+    <img src="First_Page.png"> 
+  <figcaption> A picture of the first tab that shows the US data charts </figcaption> 
+  </figure> 
    
    <br> 
    
    <p> The second page allows the user to interact with two different regions and they are allowed to choose energy sources to compare between. They are able to select the same location and compare the same source over time or different sources in the same time frame for instance. The user is also able to select two different energy sources, two different time periods, and two different locations for comparison. The data displayed shows box plots for change in time as well as contribution. There are line plots for growth over time and raw data for comparison as well. </p> 
    <br> 
    
-   <img src="Second_Page.png"> 
+   <figure> 
+    <img src="Second_Page.png"> 
+  <figcaption> A picture of the second tab that shows the state to state comparison data charts </figcaption> 
+  </figure> 
    <br> 
    <p> Finally the user is allowed to compare two different energy sources and two different time periods looking at the US holistically.   </p>
     <br> 
-    <img src="Third_Page.png"> 
+    
+    <figure> 
+      <img src="Third_Page.png"> 
+      <figcaption> A picture of the third tab that shows the energy over time for the US data charts </figcaption> 
+    </figure> 
+
   <br>
   <p> There is an about page on the fourth tab. </p> 
   </div>
@@ -46,7 +56,10 @@
   The data was collected from the US Energy Information Administration. The dataset was the net generation of energy organized by State and Type of Producer over time. 
   </p> 
   <br>
-  <img src = "data_cleaning.png">
+  <figure> 
+    <img src="data_cleaning.png"> 
+  <figcaption> A picture of the that shows the commands done to the dataset in R to clean the data</figcaption> 
+  </figure> 
   <br>
   <p> 
     The initial data manipulation done to the dataset involved cleaning up the dataset such that it was easier to handle and more focused on the information trying to be collected.
@@ -114,9 +127,10 @@ library(plyr) <br>
   <p> 
     The biggest and most noticeable trend is the growth in technology in the last 30 years. The general trend in all of the data is the growth of the contribution of each energy source. This can explained through more efficient ways to harvest the resources and more efficient ways to produce/convert energy from the source. 
   </p> 
-  <br> 
-  <img src = "growth_in_energy.png"/>
-  <br> 
+  <figure> 
+    <img src="growth_in_energy.png"> 
+  <figcaption> A picture displaying the overall growth in the energy over time </figcaption> 
+  </figure> 
   <p> 
     There is a drop off in some energy sources that can be explained with an increase in other more green technologies. With a larger focus on remaining environmental friendly some energy sources have been utilized more and other energy sources are dropping off.
   </p> 
@@ -125,16 +139,27 @@ library(plyr) <br>
     For instance when looking at energy sources such as wood and coal that require rare resources from the planet and are consumed very easily, we can see the energy usages for both level off.
   </p> 
   <br> 
-  <img src="coal_over_time.png"/> 
+  
+  
+  <figure> 
+    <img src="coal_over_time.png"> 
+  <figcaption> A picture of the coal data demonstrating the drop off in usage and production </figcaption> 
+  </figure> 
   <br>
-  <img src="wood_over_time.png"/>
+  <figure> 
+    <img src="wood_over_time.png"> 
+  <figcaption> A picture of the coal data demonstrating the drop off in usage and production </figcaption> 
+  </figure> 
   <br>
   <br>
   <p> 
     In contrast energies like solar, hydro, and wind sky rocket in usage in the more recent years to compensate for energy production. 
   </p>
   <br> 
-  <img src="clean_over_time.png"/>
+  <figure> 
+    <img src="clean_over_time.png"> 
+  <figcaption> A picture of green energy source data demonstrating the increase in usage and production </figcaption> 
+  </figure> 
   </div> 
   </body>
  </html>
