@@ -72,6 +72,32 @@
   
   <div class="instructions">
   <h3> Instructions to operate </h3>  
+  <a href="https://github.com/Vivek2018/Project1-CS424"> Github Project Repo </a> 
+  <p> 
+    To run this project there are a few requirements: <br> 
+    1) Correct libraries and proper library versions
+    2) Downloading the repo and opening the R project to start an R-Studio session
+    3) Correct dataset from https://www.eia.gov/electricity/data/state/
+  </p>
+  <br> 
+  <p> These instructions are enough to get the project working, however to make sure everything is compatable it is assumed that you have R-Studio and Shiny Apps already installed. Otherwise the user will need to install said software beforehand. There are a lot of libraries involved within the project so it is best to have everything up to date with this project. The libraries include: 
+library(shiny) <br> 
+library(readr) <br>
+library(ggplot2) <br>
+library(shinydashboard) <br>
+library(DT) <br>
+library(dplyr) <br>
+library(rlang) <br>
+library(maps) <br>
+library(mapdata) <br>
+library(maptools) <br>
+library(ggthemes) <br>
+library(rgeos) <br>
+library(ggmap) <br>
+library(sp) <br>
+library(stringr) <br>
+library(plyr) <br>
+  </p>
   </div>
   
   <br> 
@@ -100,7 +126,8 @@
   <img src="coal_over_time.png"/> 
   <br>
   <img src="wood_over_time.png"/>
-  <br> 
+  <br>
+  <br>
   <p> 
     In contrast energies like solar, hydro, and wind sky rocket in usage in the more recent years to compensate for energy production. 
   </p>
