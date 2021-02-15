@@ -45,7 +45,9 @@
   <p> 
   The data was collected from the US Energy Information Administration. The dataset was the net generation of energy organized by State and Type of Producer over time. 
   </p> 
-  <br> 
+  <br>
+  <img src = "data clean.png">
+  <br>
   <p> 
     The initial data manipulation done to the dataset involved cleaning up the dataset such that it was easier to handle and more focused on the information trying to be collected.
   </p> 
