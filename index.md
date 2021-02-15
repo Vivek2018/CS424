@@ -10,7 +10,10 @@
         <br>
         This page makes use of a Jekyll template for github pages. Everything else is my own work. 
       </p> 
-    </div> 
+    </div>
+    
+    <br>
+    <br>
     
     <div class = "content">
         <p> Project 1 Webpage: https://vivek2018.github.io/CS424/Project1 </p>
