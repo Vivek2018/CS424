@@ -79,6 +79,33 @@
   
   <div class="facts"> 
   <h3> Interesting Features </h3> 
+  <p> 
+    The data showed interesting trends in terms of the growth in energy and specific usages of energy. Historical technological growth and environmental preservation motivations are easily seen in the data. Another thing that can be seen is the lack of natural resources and drop in their usage overtime. 
+    </p> 
+<br> 
+  <p> 
+    The biggest and most noticeable trend is the growth in technology in the last 30 years. The general trend in all of the data is the growth of the contribution of each energy source. This can explained through more efficient ways to harvest the resources and more efficient ways to produce/convert energy from the source. 
+  </p> 
+  <br> 
+  <img src = "growth_in_energy.png"/>
+  <br> 
+  <p> 
+    There is a drop off in some energy sources that can be explained with an increase in other more green technologies. With a larger focus on remaining environmental friendly some energy sources have been utilized more and other energy sources are dropping off.
+  </p> 
+  <br> 
+  <p> 
+    For instance when looking at energy sources such as wood and coal that require rare resources from the planet and are consumed very easily, we can see the energy usages for both level off.
+  </p> 
+  <br> 
+  <img src="coal_over_time.png"/> 
+  <br>
+  <img src="wood_over_time.png"/>
+  <br> 
+  <p> 
+    In contrast energies like solar, hydro, and wind sky rocket in usage in the more recent years to compensate for energy production. 
+  </p>
+  <br> 
+  <img src="clean_over_time.png"/>
   </div> 
   </body>
  </html>
