@@ -21,18 +21,18 @@
    
    <br> 
    
-   <img src=""> 
+   <img src="First_Page.png"> 
    
    <br> 
    
    <p> The second page allows the user to interact with two different regions and they are allowed to choose energy sources to compare between. They are able to select the same location and compare the same source over time or different sources in the same time frame for instance. The user is also able to select two different energy sources, two different time periods, and two different locations for comparison. The data displayed shows box plots for change in time as well as contribution. There are line plots for growth over time and raw data for comparison as well. </p> 
    <br> 
    
-   <img src=""> 
+   <img src="Second_Page.png"> 
    <br> 
    <p> Finally the user is allowed to compare two different energy sources and two different time periods looking at the US holistically.   </p>
     <br> 
-    <img src="> 
+    <img src="Third_Page.png"> 
   <br>
   <p> There is an about page on the fourth tab. </p> 
   </div>
