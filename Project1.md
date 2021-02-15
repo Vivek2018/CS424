@@ -80,7 +80,9 @@
     3) Correct dataset from https://www.eia.gov/electricity/data/state/
   </p>
   <br> 
-  <p> These instructions are enough to get the project working, however to make sure everything is compatable it is assumed that you have R-Studio and Shiny Apps already installed. Otherwise the user will need to install said software beforehand. There are a lot of libraries involved within the project so it is best to have everything up to date with this project. The libraries include: 
+  <p> These instructions are enough to get the project working, however to make sure everything is compatable it is assumed that you have R-Studio and Shiny Apps already installed. Otherwise the user will need to install said software beforehand. There are a lot of libraries involved within the project so it is best to have everything up to date with this project. <br>
+
+The libraries include: <br> 
 library(shiny) <br> 
 library(readr) <br>
 library(ggplot2) <br>
