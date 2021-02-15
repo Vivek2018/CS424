@@ -13,7 +13,7 @@
     
    <br> 
     
-   <p>  The project focuses on visualizing the energy that is used within the US and looking at the data over time. There is a focus on 9 resources overall: Coal, Hydro, Natural Gas, Petroleum, Wind,                           Wood, Nuclear, Geothermal, and Solar. </p> 
+   <p>  The project focuses on visualizing the energy that is used within the US and looking at the data over time. There is a focus on 9 resources overall: Coal, Hydro, Natural Gas, Petroleum, Wind, Wood, Nuclear, Geothermal, and Solar. </p> 
    
    <br> 
    
@@ -42,6 +42,27 @@
   
   <div class = "data_description"> 
   <h3> Data Processing </h3> 
+  <p> 
+  The data was collected from the US Energy Information Administration. The dataset was the net generation of energy organized by State and Type of Producer over time. 
+  </p> 
+  <br> 
+  <p> 
+    The initial data manipulation done to the dataset involved cleaning up the dataset such that it was easier to handle and more focused on the information trying to be collected.
+  </p> 
+  <br> 
+  <p> 
+    The first steps in cleaning up the data involved converting the dataset to the proper format. In this case certain features such as the GENERATION column was read in as string where in actuality it was a numeric value used to measure the production amount for the data. The other columns were converted to be more friendly values by converting them to factors. 
+
+</p> 
+
+<br> 
+<p> 
+  The second step involved missing data and incorrectly labeled data. There was a lack of uniformity in the data specifically with the STATE column. There was an issue with the labeling of data pertaining to the US overall data. Some tuples were labeled with “US-TOTAL” in all caps. There was another case that was mixed cased “US-Total” which needed to be converted to the same uniform value. The issue with the missing data also stemmed from the STATE column where there NA values present in the column that needed to be corrected. 
+  </p> 
+  <br> 
+  <p> 
+  The final measure that was taken was the most important one: selecting what data to look at and keep. The project strived to look at Coal, Hydro, Natural Gas, Petroleum, Wind, Wood, Nuclear, Geothermal, and Solar forms of energy; so other types needed to be removed. 
+    </p> 
   </div> 
   
   <br> 
