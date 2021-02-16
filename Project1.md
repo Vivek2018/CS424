@@ -165,6 +165,10 @@ library(plyr) <br>
   <br>
   <div class="video"> 
   <h3> Youtube Video </h3> 
+  <a href="https://youtu.be/iCxduwXcf1s"> Youtube Video Link </a> 
+  <iframe width="420" height="315"
+  src="https://youtu.be/iCxduwXcf1s">
+  </iframe>
   </div>
   </body>
  </html>
