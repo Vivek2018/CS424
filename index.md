@@ -22,7 +22,7 @@
         <a href="https://vivek2018.github.io/CS424/Project1 ">Project 1 Documentation Link</a>
     <br>
       <p> Project 2 Webpage: https://vivek2018.github.io/CS424/Project2 <p> 
-      <a href = "https://vivek2018.github.io/CS424/Project2"> Project 2 Documentation Link </a>
+      <a href = "https://vivek2018.github.io/CS424/Project2 ">Project 2 Documentation Link</a>
     </div> 
   
   </body> 
