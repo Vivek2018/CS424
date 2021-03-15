@@ -19,7 +19,7 @@
     <div class = "content">
       <h3> Links to Project Pages </h3> 
         <p> Project 1 Webpage: https://vivek2018.github.io/CS424/Project1 </p>
-        <a href="https://vivek2018.github.io/CS424/Project1 ">Project 1 Documentation Link</a>
+        <a href="https://vivek2018.github.io/CS424/Project1">Project 1 Documentation Link</a>
 
 
       <p> Project 2 Webpage: https://vivek2018.github.io/CS424/Project2 <p> 
