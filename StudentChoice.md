@@ -20,9 +20,9 @@
   </figure>  
 
 
-    </div>
+</div>
 
-    <div class = "Data">
+<div class = "Data">
     <h3> What is the data? </h3>
    <p>   
     The data is a nationwide census provided by NHTSA, Congress, and American public data. The data focuses on the fatal injuries suffered from motor vehicle traffic crashes. The data covers a span of years from 1994-2018 and contains the following information: 
@@ -36,13 +36,13 @@
     <br>
     </p>
 
-    <figure>
+<figure>
     <img src="Student_Choice_images/datasetp1.png">
     <figcaption> Figure showing the first subsection within the dataset </figcaption>
     </figure>
 
-    <br>
-    <p>
+<br>
+<p>
     Traffic Crash Fatalities: <br> <br>
         Vehicle Occupants: <br>
         Drivers, <br>
@@ -60,14 +60,14 @@
         Total <br> <br> <br>
     </p>
 
-    <figure>
+<figure>
     <img src="Student_Choice_images/datasetp2.png">
     <figcaption> Figure showing the second subsection within the dataset </figcaption>
     </figure>
 
-    <br>
+<br>
 
-    <p>
+<p>
     Other National Statistics: <br> <br> <br>
         Vehicle Miles Traveled (Billions), <br>
         Resident Population (Thousands), <br>
@@ -75,41 +75,41 @@
         Licensed Drivers (Thousands) <br> <br> <br>
     </p>
 
-    <figure>
+<figure>
     <img src="Student_Choice_images/datasetp3.png">
     <figcaption> Figure showing the third subsection within the dataset </figcaption>
     </figure>
     
-    <br>
+<br>
 
-    <p>
+<p>
 
-    National Rates: <br> <br>
+National Rates: <br> <br>
         Fatalities: <br>
         Fatalities per 100 Million Vehicle Miles Traveled, <br>     
         Fatalities per 100,000 Population, <br>
         Fatalities per 100,000 Registered Vehicles, <br>
         Fatalities per 100,000 Licensed Drivers	<br>
     
-    </p>
+</p>
     
-    <br>
+<br>
 
-    <figure>
-    <img src="Student_Choice_images/datasetp4.png">
+<figure>
+<img src="Student_Choice_images/datasetp4.png">
     <figcaption> Figure showing the fourth subsection within the dataset </figcaption>
     </figure>
 
-    <br>
-    <br>
+<br>
+<br>
     <br>
 
-    <figure>
+<figure>
     <img src="Student_Choice_images/dataset.png">
     <figcaption> Full dataset </figcaption>
     </figure>
 
-    <p> As per the dataset it is evident that it is an amalgamation of all traffic accidents in the US between the years of 1994-2018 and gives a breakdown of accidents per type of party involved along with other traffic data. The year 2016 was specified and speeding was specified for the actual visualization. </p>
+<p> As per the dataset it is evident that it is an amalgamation of all traffic accidents in the US between the years of 1994-2018 and gives a breakdown of accidents per type of party involved along with other traffic data. The year 2016 was specified and speeding was specified for the actual visualization. </p>
    
    <br> 
    <br>
@@ -124,7 +124,7 @@
     <a href = "https://www.nhtsa.gov/node/97996/251"> Link to data download for all years</a>
   <br>
 
-    <br>
+<br>
   <figure> 
     <img src="Student_Choice_images/expanded_data.png"> 
   <figcaption> Picture illustrates the multiple configurations and amalgamations of the data  </figcaption> 
@@ -218,7 +218,7 @@
     This is tied to the question above. The map allows two views: STATE and CRASHES. Selecting the crashes creates a representation of clusters of crashes on the maps. Each clusters is a crash and shows the particular information of that crash such as: county and state, number of fatatlities and involved persons. Other data included is time of day and date and on what type of road the accident occurred on. All these details are helpful to show crashes and the spread of individual crashes across the nation. 
     </p>
 
-    <figure> 
+<figure> 
 <img src="Student_Choice_images/q2p1.png"> 
   <figcaption> Picture illustrates the data for all crashes across the nation  </figcaption> 
   </figure>
@@ -236,7 +236,7 @@
     "Are the occupants dying more or the passengers/pedestrians being killed more?"
     <br><br>
     This is answered with the filtering system on the left hand side of the screen. The filter allows for selecting crashes involved with Occupants and Non-Occupants. The filter only includes crashes where the party selected passed away within the crash. By default the occupants are selected. You can remove all parties, select one party, or select all parties. 
-    </p>
+</p>
     <br>
     <p>
     "What time of day and when in the scope of a year are people getting into speeding accidents?"
@@ -245,7 +245,7 @@
     All that information can be found out using the filters on the side. The filters allow for specific times to be selected and filtered. For instance you can select a specific month/months. You are also able to choose a day of the week and a specific hour within the day. All these options allow for multiple selections so you can have multiple hours selected and multiple days selected as well. These give you many combinations and allow you to create a subset of data for analysis.  
     </p>
 
-    <p>
+<p>
     <br>
     <br>
     "Which states have the highest percentage of speeding accidents in comparison to all traffic accidents?"
@@ -264,7 +264,7 @@
   <br>
   <br>
 
-    <div class = "positives">
+<div class = "positives">
     <h3> What works? </h3> 
     <br>
     <p> 
@@ -298,9 +298,10 @@
         <br>
         <br>
         The last issue with the visualization is the roadway information which is unsorted and is not so clear in what it is trying to display. The roads are tagged with a number and a color and the numbers and colors are out of order. If they were ordered by one specific format or if it could be adjusted that would be useful. The number on the left and the color are confusing as they are not straight forward and an improvement to the readibility would be good there. If they focused on the color and organized by that / percentage value like the states that would be good and the number could indicate the number of speeding accidents followed by the total speeding accidents on that type of road instead of just a number. 
-    </p>
+</p>
     </div>
-
+    <br>
+    <br>
   <div class="video"> 
   <h3> Youtube Video </h3> 
   <a href="https://www.youtube.com/watch?v=YvOq4Kzu2Ow"> Youtube Video Link </a> 
@@ -309,5 +310,6 @@
   <iframe width="420" height="345" src="https://www.youtube.com/embed/YvOq4Kzu2Ow">
   </iframe>
   </div>
+
   </body>
  </html>
