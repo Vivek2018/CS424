@@ -12,6 +12,7 @@
     <p> The visualization is a visualization depicting the number of car crashes that occured in 2016 due to speeding. The car crashes focus around fatalities and how car crashes related to speeding contribute to the fatality number for the US. There are other factors to determine the specific factors related to the crashes such as who died in the crash, month filters, and day and time filters. This all allows the user to narrow down when speeding related crashes occur and see the percent of crashes that are related to the those specific parameters. All in all, the visualization makes it easier to grasp the contribution of speeding related deaths in the total sum of all traffic fatalities in the nation. </p> 
     
    <br> 
+   
 
     <figure> 
     <img src="Student_Choice_images/speedpercent.png"> 
@@ -36,7 +37,7 @@
     </p>
 
     <figure>
-    <img src "Student_Choice_images/datasetp1.png">
+    <img src="Student_Choice_images/datasetp1.png">
     <figcaption> Figure showing the first subsection within the dataset </figcaption>
     </figure>
 
@@ -60,7 +61,7 @@
     </p>
 
     <figure>
-    <img src "Student_Choice_images/datasetp2.png">
+    <img src="Student_Choice_images/datasetp2.png">
     <figcaption> Figure showing the second subsection within the dataset </figcaption>
     </figure>
 
@@ -75,7 +76,7 @@
     </p>
 
     <figure>
-    <img src "Student_Choice_images/datasetp3.png">
+    <img src="Student_Choice_images/datasetp3.png">
     <figcaption> Figure showing the third subsection within the dataset </figcaption>
     </figure>
     
@@ -95,7 +96,7 @@
     <br>
 
     <figure>
-    <img src "Student_Choice_images/datasetp4.png">
+    <img src="Student_Choice_images/datasetp4.png">
     <figcaption> Figure showing the fourth subsection within the dataset </figcaption>
     </figure>
 
@@ -104,7 +105,7 @@
     <br>
 
     <figure>
-    <img src "Student_Choice_images/dataset.png">
+    <img src="Student_Choice_images/dataset.png">
     <figcaption> Full dataset </figcaption>
     </figure>
 
