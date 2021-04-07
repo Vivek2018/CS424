@@ -222,7 +222,9 @@
 <img src="Student_Choice_images/q2p1.png"> 
   <figcaption> Picture illustrates the data for all crashes across the nation  </figcaption> 
   </figure>
-
+    <br>
+    <br>
+    <br>
     <figure> 
 <img src="Student_Choice_images/q2p2.png"> 
   <figcaption> Picture illustrates hover feature and selection feature of an individual crash  </figcaption> 
