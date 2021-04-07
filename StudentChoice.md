@@ -242,6 +242,7 @@
     "Which states have the highest percentage of speeding accidents in comparison to all traffic accidents?"
     <br>
     <br>
+    <br>
     "Conversely, what states have the lowest percentage of speeding accidents in comparison to to all traffic accidents?"
     <br>
     <br> 
@@ -272,9 +273,11 @@
     </div>  
     <br>
     <br>
-
+    <br>
     <div class = "negatives">
     <h3> What needs improvement? </h3>
+    <br>
+    <br>
     <p>
         The visualization has some minor problems when it comes to the choices made behind the filters and visuals. The first glaring thing is the load times on the visualization and how it hangs before computing the response and from experiments it can be anywhere from 20 seconds to over 30 seconds if it hasn't crashed.  
 
@@ -297,6 +300,6 @@
   <iframe width="420" height="345" src="https://www.youtube.com/embed/YvOq4Kzu2Ow">
   </iframe>
   </div>
-  
+
   </body>
  </html>
