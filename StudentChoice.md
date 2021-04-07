@@ -148,7 +148,7 @@
   <div class="target_audience">
   <h3> Who are the users that this visualization was made for? </h3>  
   <p> 
-    The target audience is a bit varied and it seems this data is geared towards government officials who need the data to get a better understanding of traffic accidents and what effects play into those traffic fatalities. The visualization itself focuses on speeding and the correlation between speeding and fatalities and speeding fatalities with the overall fatalities. In this case the focus is on demographical data of speeding fatalities and how to mitigate those depending on certain factors such as time of day, when in the month, and when in the year. Is there a particular increase in winter for instance. The visualization is available to everyone who wants to view it online on the <a href = "https://icsw.nhtsa.gov/nhtsa/fars/speeding_data_visualization/"> nhtsa.gov website </a>.  <br> The target users might be tailored to government officials and road safety and traffic guideline related individuals, but allowing it to be online allows for a lot more users to view and make use of the visualization for private studies.  
+    The target audience is a bit varied and it seems this data is geared towards government officials who need the data to get a better understanding of traffic accidents and what effects play into those traffic fatalities. The visualization itself focuses on speeding and the correlation between speeding and fatalities and speeding fatalities with the overall fatalities. In this case the focus is on demographical data of speeding fatalities and how to mitigate those depending on certain factors such as time of day, when in the month, and when in the year. Is there a particular increase in winter for instance. The visualization is available to everyone who wants to view it online on the <a href = "https://icsw.nhtsa.gov/nhtsa/fars/speeding_data_visualization/"> nhtsa.gov website</a>.  <br><br> The target users might be tailored to government officials and road safety and traffic guideline related individuals, but allowing it to be online allows for a lot more users to view and make use of the visualization for private studies.  
   </p>
   
   <br> 
@@ -163,17 +163,24 @@
   <p> 
     Some of the most basic questions that come to mind when looking at the visualization are: <br>
     <br>
+    <br>
     "What are the percentage of speeding accidents in comparison to the total number of accidents total for that state?"
+    <br>
     <br>
     "Where do the majority of crashes occur in the whole country?"
     <br>
+    <br>
     "Are the occupants dying more or the passengers/pedestrians being killed more?"
+    <br>
     <br>
     "What time of day and when in the scope of a year are people getting into speeding accidents?"
     <br>
+    <br>
     "Which states have the highest percentage of speeding accidents in comparison to all traffic accidents?"
     <br>
+    <br>
     "Conversely, what states have the lowest percentage of speeding accidents in comparison to to all traffic accidents?"
+    <br>
     <br>
     "Where do speeding accidents mainly occur? On interstate highways or local roads for examples?"
     </p> 
@@ -300,6 +307,5 @@
   <iframe width="420" height="345" src="https://www.youtube.com/embed/YvOq4Kzu2Ow">
   </iframe>
   </div>
-
   </body>
  </html>
