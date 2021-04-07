@@ -193,9 +193,11 @@
 <img src="Student_Choice_images/q1p1.png"> 
   <figcaption> Picture illustrates the data for all the states and one particular state by hovering over it  </figcaption> 
   </figure>
-
+    <br>
+    <br>
     Clicking on a state gives all the information in more detail for the state. 
-
+    <br>
+    <br>
     <figure> 
 <img src="Student_Choice_images/q1p2.png"> 
   <figcaption> Picture illustrates the data for one particular state  </figcaption> 
@@ -236,7 +238,9 @@
 
     <p>
     <br>
+    <br>
     "Which states have the highest percentage of speeding accidents in comparison to all traffic accidents?"
+    <br>
     <br>
     "Conversely, what states have the lowest percentage of speeding accidents in comparison to to all traffic accidents?"
     <br>
@@ -266,6 +270,8 @@
         The filters are nice as well since they are color coded by the same depth measure that is universally used across the visualization. This automatically indicates which filters have a large correspondence to the dataset. The filters grey out the filters that are not selected and that is a nice visual touch for better comprehension. 
     </p>
     </div>  
+    <br>
+    <br>
 
     <div class = "negatives">
     <h3> What needs improvement? </h3>
@@ -291,5 +297,6 @@
   <iframe width="420" height="345" src="https://www.youtube.com/embed/YvOq4Kzu2Ow">
   </iframe>
   </div>
+  
   </body>
  </html>
