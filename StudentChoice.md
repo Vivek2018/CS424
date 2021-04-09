@@ -279,6 +279,12 @@ National Rates: <br> <br>
         <br><br>
         The filters are nice as well since they are color coded by the same depth measure that is universally used across the visualization. This automatically indicates which filters have a large correspondence to the dataset. The filters grey out the filters that are not selected and that is a nice visual touch for better comprehension. 
     </p>
+
+ <figure>    
+    <img src="Student_Choice_images/filters.png"> 
+  <figcaption> Picture illustrates hover feature and selection feature of an individual crash  </figcaption> 
+  </figure>
+
     </div>  
     <br>
     <br>
@@ -299,15 +305,20 @@ National Rates: <br> <br>
         <br>
         The last issue with the visualization is the roadway information which is unsorted and is not so clear in what it is trying to display. The roads are tagged with a number and a color and the numbers and colors are out of order. If they were ordered by one specific format or if it could be adjusted that would be useful. The number on the left and the color are confusing as they are not straight forward and an improvement to the readibility would be good there. If they focused on the color and organized by that / percentage value like the states that would be good and the number could indicate the number of speeding accidents followed by the total speeding accidents on that type of road instead of just a number. 
 </p>
-    </div>
+    <figure>    
+    <img src="Student_Choice_images/roads.png"> 
+  <figcaption> Picture illustrates hover feature and selection feature of an individual crash  </figcaption> 
+  </figure>
+
+</div>
     <br>
     <br>
   <div class="video"> 
   <h3> Youtube Video </h3> 
-  <a href="https://www.youtube.com/watch?v=YvOq4Kzu2Ow"> Youtube Video Link </a> 
+  <a href="https://www.youtube.com/embed/rV-H4KL_f6c"> Youtube Video Link </a> 
   <br>
   <br>
-  <iframe width="420" height="345" src="https://www.youtube.com/embed/YvOq4Kzu2Ow">
+  <iframe width="420" height="345" src="https://www.youtube.com/embed/rV-H4KL_f6c">
   </iframe>
   </div>
 
