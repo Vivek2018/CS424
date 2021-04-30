@@ -167,7 +167,7 @@ library(countrycode) <br>
   <a href="https://youtu.be/Rp689LJQxmU"> Youtube Video Link </a> 
   <br>
   <br>
-  <iframe width="420" height="345" src="https://www.youtube.com/embed/Rp689LJQxmUsss">
+  <iframe width="420" height="345" src="https://www.youtube.com/embed/Rp689LJQxmU">
   </iframe>
   </div>
   </body>
