@@ -9,7 +9,7 @@
   <br>
   <div class = "description">
     <h3> Introduction and Description </h3> 
-    <p> Project 3 is a project focused on learning how to develop shiny app web applications for data manipulation and visualization. However, Project 3 adds onto the concepts covered in Project 3 and adds more complex graphing capabilities especially when it comes to maps. Some of the things covered within this app is learning how to import data, manipulate said data and then create a user interface for visualizing the data with mapview maps. </p> 
+    <p> Project 3 is a project focused on learning how to develop shiny app web applications for data manipulation and visualization. However, Project 3 adds onto the concepts covered in Project 2 and adds more complex graphing capabilities especially when it comes to maps. Some of the things covered within this app is learning how to import data, manipulate said data and then create a user interface for visualizing the data with mapview maps. </p> 
     
    <br> 
     

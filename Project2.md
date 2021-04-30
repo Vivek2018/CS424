@@ -9,7 +9,7 @@
   <br>
   <div class = "description">
     <h3> Introduction and Description </h3> 
-    <p> Project 2 is a project focused on learning how to develop shiny app web applications for data manipulation and visualization. However, Project 2 adds onto the concepts covered in Project 2 and adds more complex graphing capabilities especially when it comes to maps. Some of the things covered within this app is learning how to import data, manipulate said data and then create a user interface for visualizing the data with leaflet maps. </p> 
+    <p> Project 2 is a project focused on learning how to develop shiny app web applications for data manipulation and visualization. However, Project 2 adds onto the concepts covered in Project 1 and adds more complex graphing capabilities especially when it comes to maps. Some of the things covered within this app is learning how to import data, manipulate said data and then create a user interface for visualizing the data with leaflet maps. </p> 
     
    <br> 
     
@@ -22,7 +22,7 @@
    <br> 
    <figure> 
     <img src="Project2_images/First_Page.png"> 
-  <figcaption> A picture of the first tab that shows the Illinois  </figcaption> 
+  <figcaption> A picture of the first tab that shows the Illinois information </figcaption> 
   </figure>  
    
    <br> 
